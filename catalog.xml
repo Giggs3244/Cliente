@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:52874/Arriendo/ServicioWeb?wsdl" uri="src/conf/xml-resources/web-service-references/ServicioWeb/wsdl/localhost_52874/Arriendo/ServicioWeb.wsdl"/>
+    <system systemId="http://localhost:52874/Arriendo/ServicioWeb?xsd=1" uri="src/conf/xml-resources/web-service-references/ServicioWeb/wsdl/localhost_52874/Arriendo/ServicioWeb.xsd_1.xsd"/>
+</catalog>
