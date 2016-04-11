@@ -33,6 +33,7 @@
                     <input type="text" class="form-control" id="valor" name="valor" placeholder="Ingrese el valor">
                 </div>
                 <button type="submit" class="btn btn-primary btn-lg btn-block">Pagar</button>
+                <!-- un comentario -->
             </form>
         </div>
     </body>
